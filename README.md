@@ -4,5 +4,6 @@ Responsive installation exploring the feedback loop between light, environments,
 <br/>
 Built with arduino, LiDAR, LED networking, and wood fabrication.
 
-https://samgochman.com/#/phototaxis
-https://www.eskewdumezripple.com/phototaxis.html
+https://samgochman.com/#/phototaxis <br/>
+https://www.eskewdumezripple.com/phototaxis.html <br/>
+![Phototaxis](phototaxis/phototaxis_silhouette.png)
