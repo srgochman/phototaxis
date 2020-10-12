@@ -6,4 +6,4 @@ Built with arduino, LiDAR, LED networking, and wood fabrication.
 
 https://samgochman.com/#/phototaxis <br/>
 https://www.eskewdumezripple.com/phototaxis.html <br/>
-![Phototaxis](phototaxis/phototaxis_silhouette.png)
+![](/phototaxis_silhouette.png)
